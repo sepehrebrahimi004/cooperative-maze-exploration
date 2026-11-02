@@ -1,0 +1,3 @@
+numpy>=1.24
+matplotlib>=3.7   # figures and the final map image
+pillow>=9.0       # GIF export in the simulator
